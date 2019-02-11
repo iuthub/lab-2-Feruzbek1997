@@ -1,0 +1,27 @@
+body{
+	background-color: grey;
+}
+h1{
+	font-family: verdana;
+	color:white;
+}
+h4{
+	color: black;
+}
+p{
+	width: 25%;
+	color:green;
+}
+ul{
+	font-family:Tahoma;
+}
+ol{
+	font-family:Trebuchet MS;
+}
+img{
+	width: 25%;
+
+}
+a{
+	color: red;
+}
